@@ -1,0 +1,3 @@
+/home/daffa/codes/ccpp/kuliah/cli-calculator/build/CMakeFiles/Calc.dir
+/home/daffa/codes/ccpp/kuliah/cli-calculator/build/CMakeFiles/edit_cache.dir
+/home/daffa/codes/ccpp/kuliah/cli-calculator/build/CMakeFiles/rebuild_cache.dir
